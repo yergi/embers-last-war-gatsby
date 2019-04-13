@@ -1,19 +1,28 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About The Campaign
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Background
+**Sharn** is a major city in **Breland**, a country in souther Khorvaire, and is arguably the greatest seat of civilization in Eberron. Trade flows regularly between the many nations and this place is widely considered to be a safe haven. **The Last War**, which lasted over a hundred years, ended only 2 years ago. Even with the war over, intrigue continues to exist everywhere. Sharn i sno exception; with the massive population and diverse cultures present, not everything is as it seems.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+The **Dragonmarked Houses** provide their services to anyone with the right amount of coin. They also scheme and plot to further their own ends; some houses seek status, some seek revenge, some seek dominations; the list is tangled and intricate. The knowledge that the houses pursue their own agends is an open secret across the world.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+In Sharn, fortunes are made and lost in the time it takes to caset a spell or crack a wand, and the romance of it all is a siren's call to more names than history will ever be able to record.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### About Eberron
+Eberron is a D&D campaign setting that was released during the 3E era. While everything that exists in default / Forgotten Realms D&D exists in Eberron, they likely look / behave very differently. There are also new races and sub-races, with the Dragonmarks being of special note. Below are links to PDFs of various Eberron sourcebooks through the various D&D editions that contain great information on the setting:
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+* [Wayfinder's Guide to Eberron (5e)](https://1drv.ms/b/s!Au4dVMtsWZ_Jk64lw9cadio9HFMvnA)
+* [Eberron Campaign Setting (3e and the original)](https://1drv.ms/b/s!Au4dVMtsWZ_JqjeoGekfrlKcKWLr)
+* [Sharn - City of Towers (3e)](https://1drv.ms/b/s!Au4dVMtsWZ_JqkT7KGtqFfLU2QL3)
+* [Faiths of Eberron (3e)](https://1drv.ms/b/s!Au4dVMtsWZ_JqjoK9L2TboGVOnA3)
+* [Player's Guide to Eberron (3e)](https://1drv.ms/b/s!Au4dVMtsWZ_Jqj43k98tSXofqSVc)
+
+### Allowed Races & Classes
+All published classes are allowed, as well as the [Artificer](https://media.wizards.com/2019/dnd/downloads/UA-Artificer-2019.pdf) from Unearthed Arcana.
+
+Allowed races are:
+* All races from the PHB
+* All races in the Wayfarer's Guide
+* The Goblin, Hobgoblin, and Bugbear from Volo's Guide
+
